@@ -1,0 +1,18 @@
+{
+  "name": "node-giovani",
+  "version": "1.0.0",
+  "description": "ajhvghsdkjdhfkjdshf",
+  "main": "index.js",
+  "scripts": {
+    "test": "roda_teste"
+  },
+  "keywords": [
+    "habba",
+    "babba"
+  ],
+  "author": "Gláuber Brennon <glauberbrennon@gmail.com> (http://github.com/gbrennon)",
+  "license": "ISC",
+  "dependencies": {
+    "mariasql": "^0.2.6"
+  }
+}
